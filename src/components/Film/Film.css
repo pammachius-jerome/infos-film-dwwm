@@ -1,0 +1,10 @@
+.film {
+    display: flex;
+    margin: 15px;
+    border: 1px solid black;
+}
+
+.film img {
+    width: 150px;
+    padding: 5px;
+}

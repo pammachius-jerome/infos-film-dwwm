@@ -1,0 +1,18 @@
+.container {
+    margin-top: 100px;
+    text-align: center;
+}
+
+.nav {
+    display: flex;
+    list-style-type: none;
+}
+
+.nav-item {
+    color: white;
+    background-color: blueviolet;
+    text-decoration: none;
+    border-radius: 10px;
+    margin: 5px 25px;
+    padding: 5px;
+}
